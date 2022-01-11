@@ -1,0 +1,14 @@
+#
+# robots.txt for ChinaCommunityServer
+# http://www.communityserver.cn
+#
+
+User-agent: *
+
+Disallow: /admin/
+Disallow: /attachments/
+Disallow: /bin/
+Disallow: /images/
+Disallow: /Emoticons/
+Disallow: /Languages/
+Disallow: /Themes/
